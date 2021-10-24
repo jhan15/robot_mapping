@@ -10,8 +10,9 @@ Occupancy grid mapping is one of many mapping algorithms. Here the world is repr
 
 Before the robot uses the map for planning the grid map will typically be processed to create a so called C-space (configuration-space) map. This is done by expending each obstacle, i.e. each cell, in the map with a circle with the same radius as the robot. When this is done we can treat the robot as a point in all further calculations. This makes planning a lot faster because all we need to check to see if the robot can be at a certain location is to see if the cell is free or not, as apposed to having to check all cells that is covered by the robot body.
 
-Colors on map:
-*Yellow: occupied space
-*White: free space
-*Gray: unknown space
-*Red: C-space.
+*Colors on map:*
+
+* Yellow: occupied space
+* White: free space
+* Gray: unknown space
+* Red: C-space.
