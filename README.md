@@ -58,4 +58,3 @@ $ rosrun mapping_assignment main.py
 * White: free space
 * Gray: unknown space
 * Red: C-space.
-* 
