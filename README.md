@@ -57,5 +57,5 @@ $ rosrun mapping_assignment main.py
 ## Simulation result
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/62132206/137804639-fe2ab29b-333c-4385-b9d8-b2332268e9a0.gif" width="600">
+  <img src="https://user-images.githubusercontent.com/62132206/138614327-08597622-4bcf-403a-8a77-6269495e48c2.gif" width="600">
 </p>
