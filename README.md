@@ -17,7 +17,7 @@ Before the robot uses the map for planning the grid map will typically be proces
 Fill in occupied cells AFTER you have filled in ALL free cells.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/62132206/137804639-fe2ab29b-333c-4385-b9d8-b2332268e9a0.gif" width="600">
+  <img src="https://user-images.githubusercontent.com/62132206/138614072-80616a3b-1362-4fa6-9841-38a027697478.png" width="300">
 </p>
 
 #### Colors on map
