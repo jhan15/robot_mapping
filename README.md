@@ -20,14 +20,6 @@ Fill in occupied cells AFTER you have filled in ALL free cells.
   <img src="https://user-images.githubusercontent.com/62132206/138614072-80616a3b-1362-4fa6-9841-38a027697478.png" width="200">
 </p>
 
-#### Colors on map
-
-* Yellow: occupied space
-* White: free space
-* Gray: unknown space
-* Red: C-space.
-
-
 ## Run the simulator
 
 Terminor 1
@@ -59,3 +51,11 @@ $ rosrun mapping_assignment main.py
 <p align="center">
   <img src="https://user-images.githubusercontent.com/62132206/138614327-08597622-4bcf-403a-8a77-6269495e48c2.gif" width="600">
 </p>
+
+#### Colors on map
+
+* Yellow: occupied space
+* White: free space
+* Gray: unknown space
+* Red: C-space.
+* 
